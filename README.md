@@ -7,3 +7,5 @@ Clima is an Android Application which gives information about the weather and it
 3.	Map Current Location: Map Current Location is the third section of the application. This section basically displays the point of the city from where the temperature and other weather aspects are retrieved. 
 
 ![alt text](https://github.com/raffa1996/Clima/blob/master/Screenshots/Home%20Screen.jpg)
+https://github.com/raffa1996/Clima/blob/master/Screenshots/Home%20Screen.jpg
+![alt text](https://github.com/raffa1996/Clima/blob/master/Screenshots/Weather%20Char.jpg) 
