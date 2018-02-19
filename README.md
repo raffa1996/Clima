@@ -5,3 +5,5 @@ Clima is an Android Application which gives information about the weather and it
 2.	Detailed Forecast: The Detailed Forecast is the other section which as the name suggests shows the current weather. It shows the date, the maximum temprature and minimum temperature. It displays the current Humidity level in percentage, it displays wind pressure and displays the wind speed in km/h units. 
 
 3.	Map Current Location: Map Current Location is the third section of the application. This section basically displays the point of the city from where the temperature and other weather aspects are retrieved. 
+
+https://github.com/raffa1996/Clima/blob/master/Screenshots/Home%20Screen.jpg
